@@ -1,6 +1,6 @@
 # Multiplication Skies: Tim's Aerial Challenge
 
-"Multiplication Skies: Tim's Aerial Challenge" is an interactive 3D game designed to make learning multiplication fun and engaging. Players join Tim on an aerial adventure, solving multiplication problems to progress through levels and unlock new challenges.
+"Multiplication Skies: Tim's Aerial Challenge" is an interactive 2D game designed to make learning multiplication fun and engaging. Players join Tim on an aerial adventure, solving multiplication problems to progress through levels and unlock new challenges.
 
 ## Table of Contents
 
